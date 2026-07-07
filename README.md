@@ -1,1 +1,1 @@
-GO TO ![https://numycode.github.io/my-keychain/](THIS PAGE)
+GO TO ![THIS PAGE](https://numycode.github.io/my-keychain)
